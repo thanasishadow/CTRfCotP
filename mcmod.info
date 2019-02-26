@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bewitchedworldresearch",
+  "name": "Research of Bewitched World",
+  "description": "The research required for the Bewitched World modpack. This is not an actual mod",
+  "version": "1.12.2",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ThanasiShadoW"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
