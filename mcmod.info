@@ -1,8 +1,8 @@
 [
 {
-  "modid": "bewitchedworldresearch",
-  "name": "Research of Bewitched World",
-  "description": "The research required for the Bewitched World modpack. This is not an actual mod",
+  "modid": "circleofthephoenixresearch",
+  "name": "Research for Circle of the Phoenix",
+  "description": "The research required for the Circle of the Phoenix modpack. This is not an actual mod",
   "version": "1.12.2",
   "mcversion": "${mcversion}",
   "url": "",
