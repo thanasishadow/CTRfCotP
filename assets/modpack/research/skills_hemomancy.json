@@ -1,0 +1,21 @@
+{
+    "entries" :[
+        {
+			"key": "SKILLS_HEMOMANCY",  
+			"name": "Hemomancy",           
+			"icons": ["contenttweaker:textures/items/skill_orb_hemomancy.png"],
+			"category": "SKILLS", 
+			"location": [ 2,0 ],
+			"parents": ["SKILLS_BASE"], 
+			"siblings": [],
+			"meta": [ "SPIKY" ],
+        
+			"stages": [
+                {
+                    "text": "research.skills.hemomancy.1"
+                }
+            ]
+        }
+    ]
+}
+    

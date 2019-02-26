@@ -1,0 +1,21 @@
+{
+    "entries" :[
+        {
+			"key": "SKILLS_TINKERING",  
+			"name": "Tinkering",           
+			"icons": ["contenttweaker:textures/items/skill_orb_tinkering.png"],
+			"category": "SKILLS", 
+			"location": [ 1,2 ],
+			"parents": ["SKILLS_BASE"], 
+			"siblings": [],
+			"meta": [ "SPIKY" ],
+        
+			"stages": [
+                {
+                    "text": "research.skills.tinkering.1"
+                }
+            ]
+        }
+    ]
+}
+    
